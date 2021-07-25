@@ -17,7 +17,7 @@ cd im-parsa
 npm install
 ```
 <br><br>
-## نصب Installation tutorial
+## 📚 Installation
 
 <br> <br>
 First of all you need to <a href="https://nodejs.org/en/"> Node.js </a>
