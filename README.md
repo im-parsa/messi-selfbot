@@ -3,9 +3,14 @@
 # 🤖 Messi (Discord Self Bot)
 > first auto join discord selfbot - just with one command join it to your server [discord.js-selfbot](https://www.npmjs.com/package/discord.js-selfbot)
 
+<br><br>
+
 ## 🔧 Requirements
 1. Discord Account Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 2. Node.js v12.0.0 or newer
+
+<br><br>
+<br><br>
 
 ## 🚀 Start
 
@@ -17,9 +22,9 @@ cd im-parsa
 npm install
 ```
 <br><br>
+
 ## 📚 Installation
 
-<br> <br>
 First of all you need to <a href="https://nodejs.org/en/"> Node.js </a>
 <br> <br>
 Install the `npm install` modules in your terminal later using
