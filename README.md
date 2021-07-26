@@ -27,7 +27,7 @@ npm install
 
 First of all you need to <a href="https://nodejs.org/en/"> Node.js </a>
 <br> <br>
-Install the `npm install` modules in your terminal later using
+Install the `npm install` modules in your terminal before using
 <br> <br>
 Run the robot `node index.js` then using
 <br> <br>
