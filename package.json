@@ -1,0 +1,33 @@
+{
+  "name": "messi-selfbot",
+  "version": "2.0.0",
+  "description": "Leo Messi Discord Self-Bot",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon",
+    "lint": "eslint . --ext .js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "node-update": "npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH",
+    "node-clean": "rm -rf node_modules && rm package-lock.json && npm cache clear --force && npm cache clean --force && npm i",
+    "node-update-then-clean": "npm run node-update && npm run node-clean-cache"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-parsa/messi-selfbot.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/im-parsa/messi-selfbot/issues"
+  },
+  "homepage": "https://github.com/im-parsa/messi-selfbot#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js-self": "^12.0.4",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,8 @@
+# Build and Release Folders
+node_modules
+.idea
+.setting
+
+# Config files
+Config.env
+package-lock.json
