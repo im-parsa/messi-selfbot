@@ -35,18 +35,18 @@
 
 # 🌟 Spread the word!
 
-If you want to say thank you and/or support active development of the Paraffin Tutorials discord-bot:
+If you want to say thank you and/or support active development of the Messi Self-Bot:
 - Add a GitHub Star to the project!
 - Buy me a coffee [idpay.ir](https://idpay.ir/paraffin-donate).
 - Join our discord server [paraffin](https://discord.com/invite/RUrks4JqW6).
 - Follow our team profiles [im-parsa](https://github.com/im-parsa)
 
-Thanks so much for your interest in growing the reach of the Nava app!
+Thanks so much for your interest in growing the reach of the Messi Self-Bot!
 
 <br/>
 
 # ⚠️ License
 
-The Paraffin Tutorials discord-bot is free and open-source bot licensed under the MIT General Public License v3.0. All designs were created by [im-parsa](https://github.com/im-parsa).
+The Messi Self-Bot is free and open-source bot licensed under the MIT General Public License v3.0. All designs were created by [im-parsa](https://github.com/im-parsa).
 
 <br />
